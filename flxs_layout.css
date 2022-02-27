@@ -57,7 +57,11 @@ body > header > nav ul li a:hover {
 body > header > nav ul li a:active {
 	color: #ffff80;
 }
-
+body > header {
+	color: #EFEFEF;
+	text-decoration: none;
+	letter-spacing: 0.25em;
+}
 article {
 	position: relative;
 	display: block;
